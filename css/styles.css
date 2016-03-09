@@ -1,0 +1,26 @@
+div.senate-section {
+  background: #700;
+}
+div.house-section {
+  background: #070;
+}
+div.lp-section {
+  padding-top; 0px;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  border-radius: 10px;
+  xxx-border: dashed black 1px;
+  border-bottom: solid black 1px;
+  margin-bottom: 2em;
+  color: white;
+}
+div.proceedings-item {
+  padding-left: 2em;
+  padding-right: 2em;
+  background: white;
+  color: #333;
+}
+div.lp-section h2 {
+  margin-top: 0.2em !important;
+  margin-bottom: 0.5em !important;
+}
