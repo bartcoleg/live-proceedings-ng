@@ -1,5 +1,4 @@
 var app = angular.module('myApp', []);
-//http://192.70.175.128/Public/cgaAPI.nsf/api.xsp/liveproceedings/floor/house
 app.controller("SectionCtrl", function($scope, $http) {
   $scope.house = [];
   $scope.senate = [];
